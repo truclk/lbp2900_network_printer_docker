@@ -17,5 +17,11 @@ XXX.XXX.XXX is IP Adrress
 ```
 ipp://XXX.XXX.XXX:631/printers/Canon_LBP2900_docker
 ```
+
+# Stop and start this container next time
+```
+docker stop lbp2900_network_printer
+docker start lbp2900_network_printer
+```
 # Reference
 https://namvu.net/2021/07/setup-a-family-printer-with-a-raspberry-pi-1-and-canon-lbp-2900/ 
